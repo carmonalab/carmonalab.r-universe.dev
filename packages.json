@@ -10,5 +10,9 @@
     {
         "package": "UCell",
         "url": "https://github.com/carmonalab/UCell"
+    },
+    {
+        "package": "STACAS",
+        "url": "https://github.com/carmonalab/STACAS"
     }
 ]
