@@ -1,0 +1,14 @@
+[
+    {
+        "package": "scGate",
+        "url": "https://github.com/carmonalab/scGate"
+    },
+    {
+        "package": "GeneNMF",
+        "url": "https://github.com/carmonalab/GeneNMF"
+    },
+    {
+        "package": "UCell",
+        "url": "https://github.com/carmonalab/UCell"
+    }
+]
