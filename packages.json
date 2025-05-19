@@ -14,5 +14,9 @@
     {
         "package": "STACAS",
         "url": "https://github.com/carmonalab/STACAS"
+    },
+    {
+        "package": "SignatuR",
+        "url": "https://github.com/carmonalab/SignatuR"
     }
 ]
