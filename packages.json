@@ -18,5 +18,9 @@
     {
         "package": "SignatuR",
         "url": "https://github.com/carmonalab/SignatuR"
+    },
+    {
+        "package": "ProjecTILs",
+        "url": "https://github.com/carmonalab/ProjecTILs"
     }
 ]
