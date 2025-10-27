@@ -22,5 +22,9 @@
     {
         "package": "ProjecTILs",
         "url": "https://github.com/carmonalab/ProjecTILs"
+    },
+    {
+        "package": "scECODA",
+        "url": "https://github.com/carmonalab/scECODA"
     }
 ]
